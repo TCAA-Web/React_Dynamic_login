@@ -1,0 +1,30 @@
+{
+  "form": [
+    {
+      "name": "name",
+      "required": true,
+      "type": "text",
+      "placeholder": "Please write your name",
+      "labelText": "Name"
+    },
+    {
+      "name": "email",
+      "required": true,
+      "type": "email",
+      "placeholder": "Please write your email",
+      "labelText": "Email"
+    },
+    {
+      "name": "password",
+      "required": true,
+      "autocomplete": "on",
+      "type": "password",
+      "placeholder": "Please write your password",
+      "labelText": "Password"
+    },
+    {
+      "type": "submit",
+      "text": "Sign up"
+    }
+  ]
+}

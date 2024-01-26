@@ -1,0 +1,23 @@
+{
+  "form": [
+    {
+      "name": "email",
+      "required": true,
+      "type": "email",
+      "placeholder": "Please write your email",
+      "labelText": "Email"
+    },
+    {
+      "name": "password",
+      "autocomplete": "on",
+      "required": true,
+      "type": "password",
+      "placeholder": "Please write your password",
+      "labelText": "Password"
+    },
+    {
+      "type": "submit",
+      "text": "Sign in"
+    }
+  ]
+}
